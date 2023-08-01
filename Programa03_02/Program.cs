@@ -28,6 +28,12 @@ namespace Programa03_02
 
             r = CCalculadoraS.resta(45, 67);
             Console.WriteLine("La resta es {0}", r);
+
+            int numero = 3;
+            Console.WriteLine(numero.ToString("D6"));
+
+            double dos = 2.07d;
+            Console.WriteLine("doble con ceros: "+dos.ToString("0000.00"));
         }
     }
 }
