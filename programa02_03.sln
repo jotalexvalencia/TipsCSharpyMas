@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tips4", "Tips C# Nicosiored
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip6FormatoWrite_WriteLine", "Tip6FormatoWrite_WriteLine\Tip6FormatoWrite_WriteLine.csproj", "{6C319683-FB9C-43F0-8FBF-BCF72CCC1943}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip7 const y readonly", "Tip7 const y readonly\Tip7 const y readonly.csproj", "{0E05D9E2-8D2E-4502-8758-E2188A5B0C4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6C319683-FB9C-43F0-8FBF-BCF72CCC1943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C319683-FB9C-43F0-8FBF-BCF72CCC1943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C319683-FB9C-43F0-8FBF-BCF72CCC1943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E05D9E2-8D2E-4502-8758-E2188A5B0C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E05D9E2-8D2E-4502-8758-E2188A5B0C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E05D9E2-8D2E-4502-8758-E2188A5B0C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E05D9E2-8D2E-4502-8758-E2188A5B0C4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
