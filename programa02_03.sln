@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip 8a DatoEstatico", "Tip 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip 8b EstaticoEnConstructor", "Tip 8b EstaticoEnConstructor\Tip 8b EstaticoEnConstructor.csproj", "{42F8DA98-DE37-48A5-A5B8-AE93C0A7913C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip 8c ConstuctorEstatico", "Tip 8c ConstuctorEstatico\Tip 8c ConstuctorEstatico.csproj", "{D4B844B5-E1AD-4F5A-A53D-A3161C1901DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{42F8DA98-DE37-48A5-A5B8-AE93C0A7913C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42F8DA98-DE37-48A5-A5B8-AE93C0A7913C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42F8DA98-DE37-48A5-A5B8-AE93C0A7913C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B844B5-E1AD-4F5A-A53D-A3161C1901DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B844B5-E1AD-4F5A-A53D-A3161C1901DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B844B5-E1AD-4F5A-A53D-A3161C1901DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B844B5-E1AD-4F5A-A53D-A3161C1901DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
