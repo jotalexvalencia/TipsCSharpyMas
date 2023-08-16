@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip 8c ConstuctorEstatico",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipod ClaseEstatica", "Tipod ClaseEstatica\Tipod ClaseEstatica.csproj", "{AACA9AA4-43FE-40DB-9D1D-837F418E7B9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip9_ModificadoresPArametrosMetodo", "Tip9_ModificadoresPArametrosMetodo\Tip9_ModificadoresPArametrosMetodo.csproj", "{4D35F1DA-6AA6-4CB9-9B08-CC3ECE92E5B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{AACA9AA4-43FE-40DB-9D1D-837F418E7B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AACA9AA4-43FE-40DB-9D1D-837F418E7B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AACA9AA4-43FE-40DB-9D1D-837F418E7B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D35F1DA-6AA6-4CB9-9B08-CC3ECE92E5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D35F1DA-6AA6-4CB9-9B08-CC3ECE92E5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D35F1DA-6AA6-4CB9-9B08-CC3ECE92E5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D35F1DA-6AA6-4CB9-9B08-CC3ECE92E5B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

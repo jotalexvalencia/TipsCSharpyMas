@@ -20,6 +20,8 @@ namespace Tipod_ClaseEstatica
             MiClase.ponNumero(555);
             Console.WriteLine("Con cambios");
             MiClase.muestraDatos();
+
+            
         }
     }
 }
