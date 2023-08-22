@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip9_ModificadoresPArametro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip010BoxingyUnboxing", "Tip010BoxingyUnboxing\Tip010BoxingyUnboxing.csproj", "{065F4AA9-9531-4BFF-BE97-E8C31DD7A1B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip11UsoDeRandom", "Tip11UsoDeRandom\Tip11UsoDeRandom.csproj", "{BCF903A2-7CA8-4A84-BB81-4E9197A616D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{065F4AA9-9531-4BFF-BE97-E8C31DD7A1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065F4AA9-9531-4BFF-BE97-E8C31DD7A1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065F4AA9-9531-4BFF-BE97-E8C31DD7A1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF903A2-7CA8-4A84-BB81-4E9197A616D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF903A2-7CA8-4A84-BB81-4E9197A616D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF903A2-7CA8-4A84-BB81-4E9197A616D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF903A2-7CA8-4A84-BB81-4E9197A616D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
