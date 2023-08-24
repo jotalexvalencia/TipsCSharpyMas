@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip11UsoDeRandom", "Tip11Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip12ArreglosJagged", "Tip12ArreglosJagged\Tip12ArreglosJagged.csproj", "{A57050AA-8D42-45D0-90C3-0F771A2B7268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip013UsoForEach", "Tip013UsoForEach\Tip013UsoForEach.csproj", "{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A57050AA-8D42-45D0-90C3-0F771A2B7268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A57050AA-8D42-45D0-90C3-0F771A2B7268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A57050AA-8D42-45D0-90C3-0F771A2B7268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
