@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip12ArreglosJagged", "Tip1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip013UsoForEach", "Tip013UsoForEach\Tip013UsoForEach.csproj", "{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip014ArreglosComoParametros", "Tip014ArreglosComoParametros\Tip014ArreglosComoParametros.csproj", "{A646DA80-E662-4B2C-A389-CCFF45BFA0D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FD89F12-DAD8-4A07-8BBE-961EF15E78EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A646DA80-E662-4B2C-A389-CCFF45BFA0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A646DA80-E662-4B2C-A389-CCFF45BFA0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A646DA80-E662-4B2C-A389-CCFF45BFA0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A646DA80-E662-4B2C-A389-CCFF45BFA0D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
