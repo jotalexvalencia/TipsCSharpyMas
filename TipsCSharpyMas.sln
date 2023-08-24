@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip015PasoPorCopiayPasoPorR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip016Enumeraciones", "Tip016Enumeraciones\Tip016Enumeraciones.csproj", "{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip17EntendiendoClaseObject", "Tip17EntendiendoClaseObject\Tip17EntendiendoClaseObject.csproj", "{DA8BABF7-2695-489B-9042-C72C798A2E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8BABF7-2695-489B-9042-C72C798A2E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8BABF7-2695-489B-9042-C72C798A2E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8BABF7-2695-489B-9042-C72C798A2E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8BABF7-2695-489B-9042-C72C798A2E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
