@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip014ArreglosComoParametro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip015PasoPorCopiayPasoPorReferencia", "Tip015PasoPorCopiayPasoPorReferencia\Tip015PasoPorCopiayPasoPorReferencia.csproj", "{0714DAF5-1BEC-4B84-9AC3-91BBA00515CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip016Enumeraciones", "Tip016Enumeraciones\Tip016Enumeraciones.csproj", "{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0714DAF5-1BEC-4B84-9AC3-91BBA00515CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0714DAF5-1BEC-4B84-9AC3-91BBA00515CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0714DAF5-1BEC-4B84-9AC3-91BBA00515CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AC2754-2F5F-4953-AB96-B1CCD2FF36C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
