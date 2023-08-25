@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip18OverrideClaeObject", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip19ClaseChar", "Tip19ClaseChar\Tip19ClaseChar.csproj", "{ED7F6F1D-091B-475B-AF0A-EA08A634A742}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip20ClaseString", "Tip20ClaseString\Tip20ClaseString.csproj", "{03982C49-5218-4581-8B89-D00C6E96C7D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{ED7F6F1D-091B-475B-AF0A-EA08A634A742}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7F6F1D-091B-475B-AF0A-EA08A634A742}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED7F6F1D-091B-475B-AF0A-EA08A634A742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03982C49-5218-4581-8B89-D00C6E96C7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03982C49-5218-4581-8B89-D00C6E96C7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03982C49-5218-4581-8B89-D00C6E96C7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03982C49-5218-4581-8B89-D00C6E96C7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
