@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip20ClaseString", "Tip20Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip21UsoAvanzadoFor", "Tip21UsoAvanzadoFor\Tip21UsoAvanzadoFor.csproj", "{FDA2C8B6-9677-45BF-8377-22A2B9BD231A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip022DeteccionNumerosenTextBox", "Tip022DeteccionNumerosenTextBox\Tip022DeteccionNumerosenTextBox.csproj", "{0A442A0C-C813-4370-AC57-0F3203F76925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{FDA2C8B6-9677-45BF-8377-22A2B9BD231A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDA2C8B6-9677-45BF-8377-22A2B9BD231A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDA2C8B6-9677-45BF-8377-22A2B9BD231A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A442A0C-C813-4370-AC57-0F3203F76925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A442A0C-C813-4370-AC57-0F3203F76925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A442A0C-C813-4370-AC57-0F3203F76925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A442A0C-C813-4370-AC57-0F3203F76925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
