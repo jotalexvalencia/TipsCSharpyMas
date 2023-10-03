@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42F8DA98-DE37-48A5-A5B8-AE93C0A7913C}</ProjectGuid>
+    <ProjectGuid>{BE9D7B4B-05BE-4B7E-9561-1CC7E3689DEA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tip_8b_EstaticoEnConstructor</RootNamespace>
-    <AssemblyName>Tip 8b EstaticoEnConstructor</AssemblyName>
+    <RootNamespace>Tip24_PropiedadesAutomaticas</RootNamespace>
+    <AssemblyName>Tip24_PropiedadesAutomaticas</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MiClase.cs" />
+    <Compile Include="CPrueba.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
