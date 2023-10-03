@@ -11,7 +11,7 @@ namespace Tip11UsoDeRandom
         static void Main(string[] args)
         {
             // variables
-            //Random rnd = new Random();
+            Random rnd = new Random();
             //Random rnd = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);ya lo hace random
 
             int n = 0;
