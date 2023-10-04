@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip026_OperadoresDeNull", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip027_VerbatimeInterpolacion", "Tip027_VerbatimeInterpolacion\Tip027_VerbatimeInterpolacion.csproj", "{0A57C813-4560-41AA-81EC-43FCDC69924D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip028_InicializadoresDeObjetos", "Tip028_InicializadoresDeObjetos\Tip028_InicializadoresDeObjetos.csproj", "{7EC29D50-D634-4AF3-B89F-6995577B7F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{0A57C813-4560-41AA-81EC-43FCDC69924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A57C813-4560-41AA-81EC-43FCDC69924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A57C813-4560-41AA-81EC-43FCDC69924D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC29D50-D634-4AF3-B89F-6995577B7F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC29D50-D634-4AF3-B89F-6995577B7F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC29D50-D634-4AF3-B89F-6995577B7F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC29D50-D634-4AF3-B89F-6995577B7F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
