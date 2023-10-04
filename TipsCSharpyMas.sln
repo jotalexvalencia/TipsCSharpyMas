@@ -53,11 +53,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip21UsoAvanzadoFor", "Tip2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tip022DeteccionNumerosenTextBox", "Tip022DeteccionNumerosenTextBox\Tip022DeteccionNumerosenTextBox.csproj", "{0A442A0C-C813-4370-AC57-0F3203F76925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip23_ConsolayForm", "Tip23_ConsolayForm\Tip23_ConsolayForm.csproj", "{63F61FB0-2662-4BF1-AD4E-C24AFBE17672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tip23_ConsolayForm", "Tip23_ConsolayForm\Tip23_ConsolayForm.csproj", "{63F61FB0-2662-4BF1-AD4E-C24AFBE17672}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip24_PropiedadesAutomaticas", "Tip24_PropiedadesAutomaticas\Tip24_PropiedadesAutomaticas.csproj", "{BE9D7B4B-05BE-4B7E-9561-1CC7E3689DEA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip025_OperadorTernario", "Tip025_OperadorTernario\Tip025_OperadorTernario.csproj", "{6A8298D8-1277-4B17-86D4-8EF1706F4EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip026_OperadoresDeNull", "Tip026_OperadoresDeNull\Tip026_OperadoresDeNull.csproj", "{7DA04CFC-1DD3-4DE6-ACBD-33AA9FD813C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{6A8298D8-1277-4B17-86D4-8EF1706F4EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A8298D8-1277-4B17-86D4-8EF1706F4EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A8298D8-1277-4B17-86D4-8EF1706F4EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA04CFC-1DD3-4DE6-ACBD-33AA9FD813C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA04CFC-1DD3-4DE6-ACBD-33AA9FD813C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA04CFC-1DD3-4DE6-ACBD-33AA9FD813C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA04CFC-1DD3-4DE6-ACBD-33AA9FD813C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
