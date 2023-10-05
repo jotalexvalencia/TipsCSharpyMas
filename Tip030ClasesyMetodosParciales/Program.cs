@@ -16,6 +16,20 @@ namespace Tip030ClasesyMetodosParciales
             prueba.Costo = 500;
 
             Console.WriteLine(prueba);
+
+            var orderStatsTuple = CalculateOrderStats();
+            Console.WriteLine($@"Total Items: {orderStatsTuple.TotalItems} 
+            Total Price: {orderStatsTuple.TotalPrice}
+            Average Price per Item: {orderStatsTuple.AvgPricePerItem}");
+        }
+
+        static (int TotalItems , double TotalPrice, double AvgPricePerItem) CalculateOrderStats()
+        {
+            int totalItems = 10;
+            double totalPrice = 250.00;
+            double avgPricePerItem = totalPrice / totalItems;
+
+            return(totalItems, totalPrice, avgPricePerItem);
         }
     }
 }
