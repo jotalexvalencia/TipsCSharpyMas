@@ -69,7 +69,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip029_MasSobrePropiedades"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip030ClasesyMetodosParciales", "Tip030ClasesyMetodosParciales\Tip030ClasesyMetodosParciales.csproj", "{23865050-6687-476C-9E6E-8971BE9B136B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip030WinFormsClasesyMetodosParciales", "Tip030WinFormsClasesyMetodosParciales\Tip030WinFormsClasesyMetodosParciales.csproj", "{AECAC37C-F7B6-495D-9EEB-EB1E9E1BC3E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tip030WinFormsClasesyMetodosParciales", "Tip030WinFormsClasesyMetodosParciales\Tip030WinFormsClasesyMetodosParciales.csproj", "{AECAC37C-F7B6-495D-9EEB-EB1E9E1BC3E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip031EnumeracionesdeFlags", "Tip031EnumeracionesdeFlags\Tip031EnumeracionesdeFlags.csproj", "{3151910E-F316-401A-B8A3-09D4E200763B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{AECAC37C-F7B6-495D-9EEB-EB1E9E1BC3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECAC37C-F7B6-495D-9EEB-EB1E9E1BC3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECAC37C-F7B6-495D-9EEB-EB1E9E1BC3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3151910E-F316-401A-B8A3-09D4E200763B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3151910E-F316-401A-B8A3-09D4E200763B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3151910E-F316-401A-B8A3-09D4E200763B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3151910E-F316-401A-B8A3-09D4E200763B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
