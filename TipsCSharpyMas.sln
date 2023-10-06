@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip033_ReimplementacionDeIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip034_ImplementacionVirtualIntefaz", "Tip034_ImplementacionVirtualIntefaz\Tip034_ImplementacionVirtualIntefaz.csproj", "{48A98CBA-489F-4C49-9E83-0B8C954B5A5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip035_RestrccionesClasesGenericas", "Tip035_RestrccionesClasesGenericas\Tip035_RestrccionesClasesGenericas.csproj", "{527E342C-8851-47AC-98F3-343C840CF2E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{48A98CBA-489F-4C49-9E83-0B8C954B5A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A98CBA-489F-4C49-9E83-0B8C954B5A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A98CBA-489F-4C49-9E83-0B8C954B5A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527E342C-8851-47AC-98F3-343C840CF2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527E342C-8851-47AC-98F3-343C840CF2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527E342C-8851-47AC-98F3-343C840CF2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527E342C-8851-47AC-98F3-343C840CF2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
