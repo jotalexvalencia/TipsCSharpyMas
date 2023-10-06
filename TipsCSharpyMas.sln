@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip036Shift", "Tip036Shift\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip037_PrecedenciaOperadoresLogicos", "Tip037_PrecedenciaOperadoresLogicos\Tip037_PrecedenciaOperadoresLogicos.csproj", "{2B37F1CB-B9BB-4332-9F4F-6C4D65F167DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip038_Snippets", "Tip038_Snippets\Tip038_Snippets.csproj", "{89D8B48D-94CA-48F3-A0EF-5CA2CE102FC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{2B37F1CB-B9BB-4332-9F4F-6C4D65F167DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B37F1CB-B9BB-4332-9F4F-6C4D65F167DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B37F1CB-B9BB-4332-9F4F-6C4D65F167DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D8B48D-94CA-48F3-A0EF-5CA2CE102FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D8B48D-94CA-48F3-A0EF-5CA2CE102FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D8B48D-94CA-48F3-A0EF-5CA2CE102FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D8B48D-94CA-48F3-A0EF-5CA2CE102FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
