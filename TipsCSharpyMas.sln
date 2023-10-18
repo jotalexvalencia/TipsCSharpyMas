@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "OpenClosed\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedRefactor", "OpenClosedRefactor\OpenClosedRefactor.csproj", "{E6D63726-BA42-4D40-9D61-51403B537F0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov", "Liskov\Liskov.csproj", "{10FAB9E8-5A15-4A8B-9B69-D2911461D705}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{E6D63726-BA42-4D40-9D61-51403B537F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D63726-BA42-4D40-9D61-51403B537F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6D63726-BA42-4D40-9D61-51403B537F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FAB9E8-5A15-4A8B-9B69-D2911461D705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FAB9E8-5A15-4A8B-9B69-D2911461D705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FAB9E8-5A15-4A8B-9B69-D2911461D705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FAB9E8-5A15-4A8B-9B69-D2911461D705}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
