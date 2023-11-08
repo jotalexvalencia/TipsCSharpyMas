@@ -10,12 +10,57 @@ namespace programa02_03
     {
         static void Main(string[] args)
         {
-            CPersona per1 = new CPersona();
+            //CPersona per1 = new CPersona();
 
-            CPersona per2 = new CPersona("Juan", 27);
+            //CPersona per2 = new CPersona("Juan", 27);
 
-            per1.muestra();
-            per2.muestra();
+            //per1.muestra();
+            //per2.muestra();
+
+            //List<string> fruits = new List<string> { "apple", "banana", "berry", "cherry" };
+            //var average = numbers.Average();
+            //var result = fruits.OrderBy(f=>f.Length).ThenBy(f=>f).ToList();
+
+
+            //foreach (var fruit in result)
+            //{
+            //    Console.WriteLine(fruit);
+            //}
+
+            //var m = new Dictionary<object, int>();
+            //var o1 = new object();
+            //var o2 = o1;
+            //m[o1] = 1;
+            //m[o2] = 2;
+
+            //Console.WriteLine($"{m[o1]}");
+
+            Console.Write("Enter a positive integer (greater than or equal to 2): ");
+            string input = Console.ReadLine();
+
+            if (int.TryParse(input, out int n) && n >= 2)
+            {
+                Console.Write("Prime factors of " + n + ": ");
+                CalculateAndDisplayPrimeFactors(n);
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a positive integer greater than or equal to 2.");
+            }
+
         }
+
+        static void CalculateAndDisplayPrimeFactors(int n)
+        {
+            for (int divisor = 2; n > 1; divisor++)
+            {
+                while (n % divisor == 0)
+                {
+                    Console.Write(divisor + " ");
+                    n /= divisor;
+                }
+            }
+        }
+
     }
 }
