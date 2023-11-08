@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DependencyInversionRefactor
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
