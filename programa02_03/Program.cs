@@ -48,6 +48,8 @@ namespace programa02_03
                 Console.WriteLine("Invalid input. Please enter a positive integer greater than or equal to 2.");
             }
 
+            bool ShopOpen = IsShopOpen("monday");
+            Console.WriteLine(ShopOpen);
         }
 
         static void CalculateAndDisplayPrimeFactors(int n)
@@ -60,6 +62,15 @@ namespace programa02_03
                     n /= divisor;
                 }
             }
+        }
+
+        static bool IsShopOpen(string day)
+        {
+            if (string.IsNullOrEmpty(day))
+                return false;
+
+            var openingDays = new[] { "friday", "saturday", "sunday" };
+            return openingDays.Any(d=> d == day.ToLower());
         }
 
     }
